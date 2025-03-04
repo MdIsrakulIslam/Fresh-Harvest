@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 2.5,
+      "description": "A sweet, crisp fruit rich in fiber and vitamin C.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Broccoli",
+      "price": 2.0,
+      "description": "A nutrient-dense vegetable high in vitamins C and K, perfect for steaming or roasting.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tomato",
+      "price": 1.2,
+      "description": "A juicy and tangy fruit often used in salads, sauces, and cooking.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Potato",
+      "price": 0.8,
+      "description": "A starchy root vegetable great for frying, baking, and mashing.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
+    },{
+        "id": 5,
+        "name": "Banana",
+        "price": 1.0,
+        "description": "A soft, sweet fruit packed with potassium and ideal for snacking.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Orange",
+        "price": 1.8,
+        "description": "A citrus fruit high in vitamin C, known for its refreshing taste.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Strawberry",
+        "price": 3.0,
+        "description": "A juicy, red berry with a sweet and slightly tart flavor, rich in antioxidants.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mango",
+        "price": 2.2,
+        "description": "A tropical fruit with a rich, sweet taste and a smooth texture.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
+      }
+    ]
+  

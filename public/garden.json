@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Vegetable Garden",
+      "image": "https://source.unsplash.com/400x300/?lettuce,plant",
+      "date": "2025-03-02",
+      "description": "A lush vegetable garden filled with fresh tomatoes, carrots, lettuce, and more.",
+      "button": "View Garden"
+    },
+    {
+      "id": 2,
+      "name": "Organic Farm",
+      "image": "https://source.unsplash.com/400x300/?bellpepper,plant",
+      "date": "2025-03-01",
+      "description": "A well-maintained organic farm growing a variety of fresh vegetables.",
+      "button": "Explore More"
+    },
+    {
+      "id": 3,
+      "name": "Backyard Garden",
+      "image": "https://source.unsplash.com/400x300/?cucumber,plant",
+      "date": "2025-02-28",
+      "description": "A small but thriving backyard vegetable garden with healthy greens.",
+      "button": "Learn More"
+    }
+  
+  ]
