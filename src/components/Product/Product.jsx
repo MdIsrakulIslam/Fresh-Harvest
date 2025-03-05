@@ -17,7 +17,7 @@ export default function Product({product}) {
     <p>${price}/kg</p>
     <Link to={`/products/${id}`}>
     <div className="card-actions">
-      <button className="btn ">Add to Cart</button>
+      <button className="btn "> Show Details</button>
     </div>
     </Link>
   </div>
